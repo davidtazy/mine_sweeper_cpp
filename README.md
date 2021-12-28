@@ -1,6 +1,6 @@
 # mine sweeper in C++
 
-inspired from ["coding train challenge"]https://thecodingtrain.com/CodingChallenges/071-minesweeper.html)
+inspired from ["coding train challenge"](https://thecodingtrain.com/CodingChallenges/071-minesweeper.html)
 
 use a canvas , a setup and a draw... but in C++
 
