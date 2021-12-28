@@ -1,0 +1,49 @@
+[
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/davidallemant/mine_sweeper_cpp/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I. -I../ -Itest_grid_autogen/include -I../src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtTest -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui  -g   -fPIC -std=c++17 -o CMakeFiles/test_grid.dir/test_grid_autogen/mocs_compilation.cpp.o -c /home/davidallemant/mine_sweeper_cpp/build/test_grid_autogen/mocs_compilation.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/build/test_grid_autogen/mocs_compilation.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_TESTCASE_BUILDDIR=\\\"/home/davidallemant/mine_sweeper_cpp/build\\\" -DQT_TESTLIB_LIB -DQT_WIDGETS_LIB -I. -I../ -Itest_grid_autogen/include -I../src -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtTest -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui  -g   -fPIC -std=c++17 -o CMakeFiles/test_grid.dir/test/test_grid.cpp.o -c /home/davidallemant/mine_sweeper_cpp/test/test_grid.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/test/test_grid.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -Ilibcanvas_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=c++17 -o CMakeFiles/libcanvas.dir/libcanvas_autogen/mocs_compilation.cpp.o -c /home/davidallemant/mine_sweeper_cpp/build/libcanvas_autogen/mocs_compilation.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/build/libcanvas_autogen/mocs_compilation.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -Ilibcanvas_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=c++17 -o CMakeFiles/libcanvas.dir/src/p5/grid.cpp.o -c /home/davidallemant/mine_sweeper_cpp/src/p5/grid.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/src/p5/grid.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -Ilibcanvas_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=c++17 -o CMakeFiles/libcanvas.dir/src/p5/application.cpp.o -c /home/davidallemant/mine_sweeper_cpp/src/p5/application.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/src/p5/application.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -Ilibcanvas_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=c++17 -o CMakeFiles/libcanvas.dir/src/p5/qtcanvas.cpp.o -c /home/davidallemant/mine_sweeper_cpp/src/p5/qtcanvas.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/src/p5/qtcanvas.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -Iminesweeper_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=c++17 -o CMakeFiles/minesweeper.dir/minesweeper_autogen/mocs_compilation.cpp.o -c /home/davidallemant/mine_sweeper_cpp/build/minesweeper_autogen/mocs_compilation.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/build/minesweeper_autogen/mocs_compilation.cpp"
+},
+
+{
+  "directory": "/home/davidallemant/mine_sweeper_cpp/build",
+  "command": "/usr/bin/g++-8  -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I. -I../ -Iminesweeper_autogen/include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++  -g   -fPIC -std=c++17 -o CMakeFiles/minesweeper.dir/src/minesweeper.cpp.o -c /home/davidallemant/mine_sweeper_cpp/src/minesweeper.cpp",
+  "file": "/home/davidallemant/mine_sweeper_cpp/src/minesweeper.cpp"
+}
+]

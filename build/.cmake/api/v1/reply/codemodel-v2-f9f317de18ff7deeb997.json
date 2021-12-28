@@ -1,0 +1,104 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "canvas",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "libcanvas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libcanvas-Debug-dafc7778fdf90692c6dd.json",
+					"name" : "libcanvas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "libcanvas_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-libcanvas_autogen-Debug-8f084180728ff64b7ca0.json",
+					"name" : "libcanvas_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "minesweeper::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-minesweeper-Debug-118c65410453ac63c861.json",
+					"name" : "minesweeper",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "minesweeper_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-minesweeper_autogen-Debug-2b9f687f926ae39ea85b.json",
+					"name" : "minesweeper_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_grid::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_grid-Debug-dbbd43d1ae77f5176dd7.json",
+					"name" : "test_grid",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test_grid_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test_grid_autogen-Debug-40a168c306d4a6865f73.json",
+					"name" : "test_grid_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/davidallemant/mine_sweeper_cpp/build",
+		"source" : "/home/davidallemant/mine_sweeper_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
